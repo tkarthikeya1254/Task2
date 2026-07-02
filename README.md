@@ -1,29 +1,29 @@
 # SkillCraft Technology Internship - Task 2
 
 ## Project Title
-Marketing Campaign Analysis
+Customer Segmentation using K-Means Clustering
 
 ## Description
-This project analyzes a marketing campaign dataset to identify customer behavior, campaign performance, and key business insights. The analysis was performed using Python in Jupyter Notebook.
+This project performs customer segmentation using the K-Means Clustering algorithm. The dataset is cleaned, preprocessed, and analyzed to group customers with similar characteristics. The project is implemented in Python using Jupyter Notebook.
 
 ## Files Included
-- Task_2_t2.ipynb – Jupyter Notebook containing the analysis
-- marketing_campaign_t2.csv – Dataset used for analysis
-- Marketing Campaign Analysis Report_t2.docx – Project report
+- Cleaned_data_T2.csv – Cleaned dataset used for clustering
+- Global Superstore_T2.xls – Original dataset
+- Task_2_t2.ipynb – Jupyter Notebook containing the complete implementation and analysis
 
-## Tools Used
+## Tools & Technologies
 - Python
 - Jupyter Notebook
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
+- Scikit-learn
 
 ## Objectives
-- Clean and preprocess the dataset
-- Perform exploratory data analysis (EDA)
-- Visualize important trends
-- Generate business insights from the campaign data
+- Load and preprocess the dataset
+- Perform customer segmentation using K-Means Clustering
+- Visualize clusters
+- Analyze customer groups and business insights
 
 ## Outcome
-The project provides useful insights into customer demographics, purchasing behavior, and campaign effectiveness through data analysis and visualization.
+The project successfully groups customers into different clusters based on their characteristics, helping businesses understand customer behavior and improve marketing strategies.
